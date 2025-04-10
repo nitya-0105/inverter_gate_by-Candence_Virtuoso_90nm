@@ -11,7 +11,7 @@ Post-layout simulation with extracted parasitics
 Key Learnings:
 How NMOS and PMOS work together to create inverter logic
 Effect of transistor sizing on performance
-Understanding propagation delay, noise margins, and power consumption
+Understanding propagation delay
 Basics of layout design and physical verification in backend flow
 
 Tools Used:
